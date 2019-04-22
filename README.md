@@ -1,2 +1,2 @@
-# Aplikasi Koperasi versi lingga
+# Aplikasi Koperasi versi irfan
 Repository untuk Code Igneter koperasi
